@@ -1,0 +1,12 @@
+
+.tenor-gif-embed {
+  width: 100%;
+  height: 100%;
+  max-height: 100%;
+  pointer-events: none;
+  opacity: 0.15; /* Increase for visibility */
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
